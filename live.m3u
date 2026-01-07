@@ -96,7 +96,7 @@ http://8.138.7.223/【公众号：榴芒电视】/cctv7.m3u8$LR•IPV4『线路3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="📡  央视频道",CCTV7
 http://183.11.239.36:808/hls/25/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="📡  央视频道",CCTV7
-http://112.46.85.60:8009/hls/504/index.m3u8$LR•IPV4『线路5』
+http://120.76.248.139/live/bfgd/4200000127.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="📡  央视频道",CCTV7
 http://120.211.62.180:8000/hls/7/index.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="📡  央视频道",CCTV8
@@ -116,11 +116,11 @@ http://58.57.40.22:9901/tsfile/live/1009_1.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="📡  央视频道",CCTV9
 http://183.11.239.36:808/hls/27/index.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="📡  央视频道",CCTV9
-http://112.46.85.60:8009/hls/509/index.m3u8$LR•IPV4『线路3』
+http://120.76.248.139/live/bfgd/4200000128.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="📡  央视频道",CCTV9
-https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8$LR•IPV4『线路4』
+http://112.46.85.60:8009/hls/509/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="📡  央视频道",CCTV9
-http://182.150.23.74:808/hls/9/index.m3u8$LR•IPV4『线路5』
+https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="📡  央视频道",CCTV9
 http://120.211.62.180:8000/hls/9/index.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="📡  央视频道",CCTV10
@@ -132,7 +132,7 @@ http://120.76.248.139/live/bfgd/4200000129.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="📡  央视频道",CCTV10
 https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="📡  央视频道",CCTV10
-http://182.150.23.74:808/hls/10/index.m3u8$LR•IPV4『线路5』
+http://61.136.172.236:9901/tsfile/live/0010_1.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="📡  央视频道",CCTV10
 http://120.211.62.180:8000/hls/10/index.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="📡  央视频道",CCTV11
@@ -152,11 +152,11 @@ http://58.57.40.22:9901/tsfile/live/1012_1.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="📡  央视频道",CCTV12
 http://183.11.239.36:808/hls/30/index.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="📡  央视频道",CCTV12
-http://112.46.85.60:8009/hls/507/index.m3u8$LR•IPV4『线路3』
+http://120.76.248.139/live/bfgd/4200000131.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="📡  央视频道",CCTV12
-https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8$LR•IPV4『线路4』
+http://112.46.85.60:8009/hls/507/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="📡  央视频道",CCTV12
-http://182.150.23.74:808/hls/12/index.m3u8$LR•IPV4『线路5』
+https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="📡  央视频道",CCTV12
 http://120.211.62.180:8000/hls/12/index.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="📡  央视频道",CCTV13
@@ -196,15 +196,15 @@ http://120.76.248.139/live/bfgd/4200000133.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="📡  央视频道",CCTV15
 http://120.211.62.180:8000/hls/15/index.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📡  央视频道",CCTV16
-http://gmxw.7766.org:808/hls/169/index.m3u8$LR•IPV4『线路1』
+http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📡  央视频道",CCTV16
-http://183.11.239.36:808/hls/169/index.m3u8$LR•IPV4『线路2』
+http://gmxw.7766.org:808/hls/169/index.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📡  央视频道",CCTV16
-https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8$LR•IPV4『线路3』
+http://183.11.239.36:808/hls/169/index.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📡  央视频道",CCTV16
-http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8$LR•IPV4『线路4』
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📡  央视频道",CCTV16
-http://drive.mxmy.net:8888/udp/239.3.1.184:8001$LR•IPV4『线路5』
+http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📡  央视频道",CCTV16
 http://www.dsk.cc/php/bfgd.php?id=cctv16&m.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="📡  央视频道",CCTV17
@@ -244,9 +244,9 @@ http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="📡  卫视频道",湖南卫视
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="📡  卫视频道",湖南卫视
-http://124.116.183.146:9901/tsfile/live/0128_1.m3u8$LR•IPV4『线路5』
+http://183.11.239.36:808/hls/36/index.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="📡  卫视频道",湖南卫视
-http://183.11.239.36:808/hls/36/index.m3u8$LR•IPV4『线路6』
+http://120.76.248.139/live/bfgd/4200000086.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="📡  卫视频道",湖南卫视
 http://120.211.62.180:8000/hls/30/index.m3u8$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="📡  卫视频道",湖南卫视
@@ -254,15 +254,15 @@ rtp://239.3.1.112:3002$LR•IPV4『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡  卫视频道",浙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡  卫视频道",浙江卫视
-http://223.105.252.8/PLTV/4/224/3221228147/index.m3u8$LR•IPV4『线路2』
+http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡  卫视频道",浙江卫视
-http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$LR•IPV4『线路3』
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡  卫视频道",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路4』
+http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡  卫视频道",浙江卫视
-http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$LR•IPV4『线路5』
+http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡  卫视频道",浙江卫视
-http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$LR•IPV4『线路6』
+http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡  卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡  卫视频道",浙江卫视
@@ -270,15 +270,15 @@ rtp://239.3.1.114:3004$LR•IPV4『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="📡  卫视频道",东方卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="📡  卫视频道",东方卫视
-http://223.105.252.8/PLTV/4/224/3221228150/index.m3u8$LR•IPV4『线路2』
+http://58.57.40.22:9901/tsfile/live/1030_1.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="📡  卫视频道",东方卫视
-http://58.57.40.22:9901/tsfile/live/1030_1.m3u8$LR•IPV4『线路3』
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="📡  卫视频道",东方卫视
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$LR•IPV4『线路4』
+http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="📡  卫视频道",东方卫视
-http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8$LR•IPV4『线路5』
+http://183.11.239.36:808/hls/114/index.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="📡  卫视频道",东方卫视
-http://124.116.183.146:9901/tsfile/live/0107_1.m3u8$LR•IPV4『线路6』
+http://120.76.248.139/live/bfgd/4200000093.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="📡  卫视频道",东方卫视
 hhttp://219.157.60.114:7001/rtp/225.1.4.85:1114$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="📡  卫视频道",东方卫视
@@ -286,15 +286,15 @@ rtp://239.3.1.119:3006$LR•IPV4『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡  卫视频道",北京卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡  卫视频道",北京卫视
-http://223.105.252.8/PLTV/4/224/3221228115/index.m3u8$LR•IPV4『线路2』
+http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡  卫视频道",北京卫视
-http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$LR•IPV4『线路3』
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡  卫视频道",北京卫视
-http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$LR•IPV4『线路4』
+http://222.134.245.16:9901/tsfile/live/0122_1.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡  卫视频道",北京卫视
-http://124.116.183.146:9901/tsfile/live/0122_1.m3u8$LR•IPV4『线路5』
+http://183.11.239.36:808/hls/41/index.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡  卫视频道",北京卫视
-http://222.134.245.16:9901/tsfile/live/0122_1.m3u8$LR•IPV4『线路6』
+http://120.76.248.139/live/bfgd/4200000083.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡  卫视频道",北京卫视
 http://120.211.62.180:8000/hls/35/index.m3u8$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="📡  卫视频道",北京卫视
@@ -350,13 +350,13 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="2" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="📡  卫视频道",安徽卫视
 http://58.57.40.22:9901/tsfile/live/1033_1.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="📡  卫视频道",安徽卫视
-http://124.116.183.146:9901/tsfile/live/0130_1.m3u8$LR•IPV4『线路3』
+http://222.134.245.16:9901/tsfile/live/0130_1.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="📡  卫视频道",安徽卫视
-http://222.134.245.16:9901/tsfile/live/0130_1.m3u8$LR•IPV4『线路4』
+http://183.11.239.36:808/hls/40/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="📡  卫视频道",安徽卫视
-http://183.11.239.36:808/hls/40/index.m3u8$LR•IPV4『线路5』
+http://120.76.248.139/live/bfgd/4200000096.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="📡  卫视频道",安徽卫视
-http://120.76.248.139/live/bfgd/4200000096.m3u8$LR•IPV4『线路6』
+http://222.169.85.8:9901/tsfile/live/0130_1.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="📡  卫视频道",安徽卫视
 http://120.211.62.180:8000/hls/33/index.m3u8$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="📡  卫视频道",安徽卫视
@@ -366,13 +366,13 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡  卫视频道",重庆卫视
 http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡  卫视频道",重庆卫视
-http://124.116.183.146:9901/tsfile/live/0142_1.m3u8$LR•IPV4『线路3』
+http://183.11.239.36:808/hls/53/index.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡  卫视频道",重庆卫视
-http://183.11.239.36:808/hls/53/index.m3u8$LR•IPV4『线路4』
+http://120.76.248.139/live/bfgd/4200000107.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡  卫视频道",重庆卫视
-http://120.76.248.139/live/bfgd/4200000107.m3u8$LR•IPV4『线路5』
+http://222.169.85.8:9901/tsfile/live/0142_1.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡  卫视频道",重庆卫视
-http://123.130.84.106:8154/tsfile/live/0142_1.m3u8$LR•IPV4『线路6』
+http://61.136.172.236:9901/tsfile/live/0142_1.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡  卫视频道",重庆卫视
 http://219.157.60.114:7001/rtp/225.1.4.157:1308$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="📡  卫视频道",重庆卫视
@@ -384,11 +384,11 @@ http://58.57.40.22:9901/tsfile/live/1046_1.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="📡  卫视频道",四川卫视
 http://120.238.94.10:9901/tsfile/live/1058_1.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="📡  卫视频道",四川卫视
-http://124.116.183.146:9901/tsfile/live/0123_1.m3u8$LR•IPV4『线路4』
+http://222.134.245.16:9901/tsfile/live/0123_1.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="📡  卫视频道",四川卫视
-http://222.134.245.16:9901/tsfile/live/0123_1.m3u8$LR•IPV4『线路5』
+http://183.11.239.36:808/hls/50/index.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="📡  卫视频道",四川卫视
-http://183.11.239.36:808/hls/50/index.m3u8$LR•IPV4『线路6』
+http://120.76.248.139/live/bfgd/4200000103.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="📡  卫视频道",四川卫视
 http://219.157.60.114:7001/rtp/225.1.4.151:1306$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="📡  卫视频道",四川卫视
@@ -414,11 +414,11 @@ http://58.57.40.22:9901/tsfile/live/1036_1.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡  卫视频道",深圳卫视
 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡  卫视频道",深圳卫视
-http://124.116.183.146:9901/tsfile/live/0126_1.m3u8$LR•IPV4『线路4』
+http://183.11.239.36:808/hls/45/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡  卫视频道",深圳卫视
-http://183.11.239.36:808/hls/45/index.m3u8$LR•IPV4『线路5』
+http://120.76.248.139/live/bfgd/4200000100.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡  卫视频道",深圳卫视
-http://120.76.248.139/live/bfgd/4200000100.m3u8$LR•IPV4『线路6』
+http://222.169.85.8:9901/tsfile/live/0126_1.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡  卫视频道",深圳卫视
 http://219.157.60.114:7001/rtp/225.1.4.90:1119$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="📡  卫视频道",深圳卫视
@@ -430,11 +430,11 @@ http://58.57.40.22:9901/tsfile/live/1039_1.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡  卫视频道",广东卫视
 http://120.238.94.10:9901/tsfile/live/1008_1.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡  卫视频道",广东卫视
-http://124.116.183.146:9901/tsfile/live/0125_1.m3u8$LR•IPV4『线路4』
+http://183.11.239.36:808/hls/80/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡  卫视频道",广东卫视
-http://183.11.239.36:808/hls/80/index.m3u8$LR•IPV4『线路5』
+http://120.76.248.139/live/bfgd/4200000092.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡  卫视频道",广东卫视
-http://120.76.248.139/live/bfgd/4200000092.m3u8$LR•IPV4『线路6』
+http://61.156.228.12:8154/tsfile/live/0125_1.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡  卫视频道",广东卫视
 http://219.157.60.114:7001/rtp/225.1.4.166:1207$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="📡  卫视频道",广东卫视
@@ -484,7 +484,7 @@ http://183.11.239.36:808/hls/49/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="📡  卫视频道",贵州卫视
 http://120.76.248.139/live/bfgd/4200000101.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="📡  卫视频道",贵州卫视
-http://222.169.85.8:9901/tsfile/live/0120_1.m3u8$LR•IPV4『线路6』
+http://182.150.23.74:808/hls/26/index.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="📡  卫视频道",贵州卫视
 http://219.157.60.114:7001/rtp/225.1.4.122:1302$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="📡  卫视频道",贵州卫视
@@ -534,11 +534,11 @@ http://58.57.40.22:9901/tsfile/live/1040_1.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="📡  卫视频道",黑龙江卫视
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="📡  卫视频道",黑龙江卫视
-http://124.116.183.146:9901/tsfile/live/0143_1.m3u8$LR•IPV4『线路4』
+http://183.11.239.36:808/hls/48/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="📡  卫视频道",黑龙江卫视
-http://183.11.239.36:808/hls/48/index.m3u8$LR•IPV4『线路5』
+http://120.76.248.139/live/bfgd/4200000095.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="📡  卫视频道",黑龙江卫视
-http://120.76.248.139/live/bfgd/4200000095.m3u8$LR•IPV4『线路6』
+http://61.156.228.12:8154/tsfile/live/0143_1.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="📡  卫视频道",黑龙江卫视
 http://219.157.60.114:7001/rtp/225.1.4.91:1120$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="📡  卫视频道",黑龙江卫视
@@ -550,11 +550,11 @@ http://58.57.40.22:9901/tsfile/live/1038_1.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="📡  卫视频道",湖北卫视
 http://120.238.94.10:9901/tsfile/live/1055_1.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="📡  卫视频道",湖北卫视
-http://124.116.183.146:9901/tsfile/live/0132_1.m3u8$LR•IPV4『线路4』
+http://183.11.239.36:808/hls/46/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="📡  卫视频道",湖北卫视
-http://183.11.239.36:808/hls/46/index.m3u8$LR•IPV4『线路5』
+http://120.76.248.139/live/bfgd/4200000102.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="📡  卫视频道",湖北卫视
-http://120.76.248.139/live/bfgd/4200000102.m3u8$LR•IPV4『线路6』
+http://182.150.23.74:808/hls/28/index.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="📡  卫视频道",湖北卫视
 http://219.157.60.114:7001/rtp/225.1.4.89:1118$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="📡  卫视频道",湖北卫视
@@ -578,15 +578,15 @@ rtp://239.3.1.240:8172$LR•IPV4『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡  卫视频道",内蒙古卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡  卫视频道",内蒙古卫视
-http://120.76.248.139/live/bfgd/4200000110.m3u8$LR•IPV4『线路2』
+http://111.61.236.247:9081/hls/48/index.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡  卫视频道",内蒙古卫视
-http://111.61.236.247:9081/hls/48/index.m3u8$LR•IPV4『线路3』
+http://222.134.245.16:9901/tsfile/live/0109_1.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡  卫视频道",内蒙古卫视
-http://222.134.245.16:9901/tsfile/live/0109_1.m3u8$LR•IPV4『线路4』
+http://183.11.239.36:808/hls/60/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡  卫视频道",内蒙古卫视
-http://183.11.239.36:808/hls/60/index.m3u8$LR•IPV4『线路5』
+http://cssbyd.imwork.net:8082/hls/44/index.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡  卫视频道",内蒙古卫视
-http://cssbyd.imwork.net:8082/hls/44/index.m3u8$LR•IPV4『线路6』
+http://61.156.228.12:8154/tsfile/live/0109_1.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="📡  卫视频道",内蒙古卫视
 http://219.157.60.114:7001/rtp/225.1.4.45:1074$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡  卫视频道",辽宁卫视
@@ -598,9 +598,9 @@ http://183.11.239.36:808/hls/47/index.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡  卫视频道",辽宁卫视
 http://120.76.248.139/live/bfgd/4200000141.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡  卫视频道",辽宁卫视
-http://120.76.248.139/live/bfgd/4200000058.m3u8$LR•IPV4『线路5』
+http://120.76.248.139/live/bfgd/4200000185.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡  卫视频道",辽宁卫视
-http://61.156.228.12:8154/tsfile/live/0121_1.m3u8$LR•IPV4『线路6』
+http://120.76.248.139/live/bfgd/4200000058.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡  卫视频道",辽宁卫视
 http://120.211.62.180:8000/hls/37/index.m3u8$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="📡  卫视频道",辽宁卫视
@@ -664,13 +664,13 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="📡  卫视频道",天津卫视
 http://58.57.40.22:9901/tsfile/live/1034_1.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="📡  卫视频道",天津卫视
-http://124.116.183.146:9901/tsfile/live/0135_1.m3u8$LR•IPV4『线路3』
+http://183.11.239.36:808/hls/42/index.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="📡  卫视频道",天津卫视
-http://183.11.239.36:808/hls/42/index.m3u8$LR•IPV4『线路4』
+http://112.46.85.60:8009/hls/44/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="📡  卫视频道",天津卫视
-http://112.46.85.60:8009/hls/44/index.m3u8$LR•IPV4『线路5』
+http://182.150.23.74:808/hls/27/index.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="📡  卫视频道",天津卫视
-http://182.150.23.74:808/hls/27/index.m3u8$LR•IPV4『线路6』
+http://123.130.84.106:8154/tsfile/live/0135_1.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="📡  卫视频道",天津卫视
 http://120.211.62.180:8000/hls/36/index.m3u8$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="📡  卫视频道",天津卫视
@@ -758,19 +758,15 @@ http://120.76.248.139/live/bfgd/4200000122.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="📡  卫视频道",农林卫视
 http://8.138.7.223/【公众号：榴芒电视】/农林卫视.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="📡  卫视频道",农林卫视
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="📡  卫视频道",农林卫视
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="📡  卫视频道",农林卫视
-http://gxlive.snrtv.com/nlws-SD.m3u8$LR•IPV4『线路5』
+http://gxlive.snrtv.com/nlws-SD.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="📡  卫视频道",三沙卫视
 http://219.157.60.114:7001/rtp/225.1.4.234:1280$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="📡  卫视频道",延边卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="📡  卫视频道",延边卫视
-http://120.76.248.139/live/bfgd/4200000117.m3u8$LR•IPV4『线路2』
+http://gmxw.7766.org:808/hls/15/index.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="📡  卫视频道",延边卫视
-http://gmxw.7766.org:808/hls/15/index.m3u8$LR•IPV4『线路3』
+http://120.76.248.139/live/bfgd/4200000117.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="📡  卫视频道",延边卫视
 http://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="📡  卫视频道",延边卫视
@@ -1083,6 +1079,10 @@ http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab47
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="📡  广东频道",广州竞赛
 http://8.138.7.223/tv/gzjs.m3u8$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="东莞新闻综合" tvg-logo="https://live.fanmingming.com/tv/东莞新闻综合.png" group-title="📡  广东频道",东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="东莞生活资讯" tvg-logo="https://live.fanmingming.com/tv/东莞生活资讯.png" group-title="📡  广东频道",东莞生活资讯
+https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="📡  湖南频道",金鹰卡通
 http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="📡  湖南频道",金鹰卡通
@@ -1306,13 +1306,17 @@ P2p://starvod.xyz:19806/aefd7b9df76e4d86b79252e96ca0c03d$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="📡  台湾频道",靖天映画
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="📡  台湾频道",靖天映画
-P2p://starvod.xyz:19806/2182dcdc31f64d11be57958f121653a4$LR•IPV4『线路2』
+https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="📡  台湾频道",靖天映画
+P2p://starvod.xyz:19806/2182dcdc31f64d11be57958f121653a4$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="靖洋卡通" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通.png" group-title="📡  台湾频道",靖洋卡通
 P2p://starvod.xyz:19806/23377ae77adc43c6980b1c6c23f018c9$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="靖天戏剧" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧.png" group-title="📡  台湾频道",靖天戏剧
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="靖天戏剧" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧.png" group-title="📡  台湾频道",靖天戏剧
-P2p://starvod.xyz:19806/1dddf866590c407dab3f1054950bf575$LR•IPV4『线路2』
+https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="靖天戏剧" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧.png" group-title="📡  台湾频道",靖天戏剧
+P2p://starvod.xyz:19806/1dddf866590c407dab3f1054950bf575$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="📡  台湾频道",靖天电影
 P2p://starvod.xyz:19806/cd47dabb4fd745df9c81cce941540481$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="靖天国际" tvg-logo="https://live.fanmingming.com/tv/靖天国际.png" group-title="📡  台湾频道",靖天国际
@@ -1426,11 +1430,9 @@ http://120.76.248.139/live/bfgd/4200000249.m3u8$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="🇨🇳数字4K",茶频道
 http://drive.mxmy.net:8888/udp/239.3.1.165:8001$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="哆啦A梦" tvg-logo="https://live.fanmingming.com/tv/哆啦A梦.png" group-title="🇨🇳虎牙直播",哆啦A梦
-http://www.douzhicloud.site:35455/huya/11601963$LR•IPV4『线路1』
+http://live.nctv.top/huya.php?id=11601963$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="哆啦A梦" tvg-logo="https://live.fanmingming.com/tv/哆啦A梦.png" group-title="🇨🇳虎牙直播",哆啦A梦
-http://live.nctv.top/huya.php?id=11601963$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="哆啦A梦" tvg-logo="https://live.fanmingming.com/tv/哆啦A梦.png" group-title="🇨🇳虎牙直播",哆啦A梦
-http://www.xzbn.site:35455/huya/11601963$LR•IPV4『线路3』
+http://www.xzbn.site:35455/huya/11601963$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="王者荣耀" tvg-logo="https://live.fanmingming.com/tv/王者荣耀.png" group-title="🇨🇳虎牙直播",王者荣耀
 http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="王者荣耀" tvg-logo="https://live.fanmingming.com/tv/王者荣耀.png" group-title="🇨🇳虎牙直播",王者荣耀
@@ -1548,21 +1550,21 @@ http://www.xzbn.site:35455/douyu/12128227$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="鹿鼎记" tvg-logo="https://live.fanmingming.com/tv/鹿鼎记.png" group-title="🇨🇳虎牙直播",鹿鼎记
 http://alist.xicp.fun:35455/yy/28265277#https://live.metshop.top/huya/23865080#https://live.metshop.top/yy/28265277#https://lunbo.freetv.top/yy/1382736920$LR•IPV4『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="射雕英雄传" tvg-logo="https://live.fanmingming.com/tv/射雕英雄传.png" group-title="🇨🇳虎牙直播",射雕英雄传
-http://2.itv.nctv.top:54321/yy/1354210357$LR•IPV4『线路1』
+http://www.douzhicloud.site:35455/huya/23824164$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="射雕英雄传" tvg-logo="https://live.fanmingming.com/tv/射雕英雄传.png" group-title="🇨🇳虎牙直播",射雕英雄传
-http://www.xzbn.site:35455/yy/1354210357.m3u8$LR•IPV4『线路2』
+http://2.itv.nctv.top:54321/yy/1354210357$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="射雕英雄传" tvg-logo="https://live.fanmingming.com/tv/射雕英雄传.png" group-title="🇨🇳虎牙直播",射雕英雄传
+http://www.xzbn.site:35455/yy/1354210357.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="神雕侠侣" tvg-logo="https://live.fanmingming.com/tv/神雕侠侣.png" group-title="🇨🇳虎牙直播",神雕侠侣
-http://www.douzhicloud.site:35455/huya/23865171$LR•IPV4『线路1』
+http://2.itv.nctv.top:54321/yy/1351762426$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="神雕侠侣" tvg-logo="https://live.fanmingming.com/tv/神雕侠侣.png" group-title="🇨🇳虎牙直播",神雕侠侣
-http://2.itv.nctv.top:54321/yy/1351762426$LR•IPV4『线路2』
+http://www.xzbn.site:35455/yy/1351762426$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="神雕侠侣" tvg-logo="https://live.fanmingming.com/tv/神雕侠侣.png" group-title="🇨🇳虎牙直播",神雕侠侣
-http://www.xzbn.site:35455/yy/1351762426$LR•IPV4『线路3』
+http://alist.xicp.fun:35455/yy/1351762426#https://live.metshop.top/yy/1351762426#https://lunbo.freetv.top/yy/1351762426$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="神雕侠侣" tvg-logo="https://live.fanmingming.com/tv/神雕侠侣.png" group-title="🇨🇳虎牙直播",神雕侠侣
-http://alist.xicp.fun:35455/yy/1351762426#https://live.metshop.top/yy/1351762426#https://lunbo.freetv.top/yy/1351762426$LR•IPV4『线路4』
+http://live.nctv.top/huya.php?id=23865171$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="神雕侠侣" tvg-logo="https://live.fanmingming.com/tv/神雕侠侣.png" group-title="🇨🇳虎牙直播",神雕侠侣
-http://live.nctv.top/huya.php?id=23865171$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="神雕侠侣" tvg-logo="https://live.fanmingming.com/tv/神雕侠侣.png" group-title="🇨🇳虎牙直播",神雕侠侣
-http://www.xzbn.site:35455/huya/23865171$LR•IPV4『线路6』
+http://www.xzbn.site:35455/huya/23865171$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="天龙八部" tvg-logo="https://live.fanmingming.com/tv/天龙八部.png" group-title="🇨🇳虎牙直播",天龙八部
 http://www.douzhicloud.site:35455/yy/1351814644$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="天龙八部" tvg-logo="https://live.fanmingming.com/tv/天龙八部.png" group-title="🇨🇳虎牙直播",天龙八部
@@ -2451,50 +2453,38 @@ http://alist.xicp.fun:35455/yy/1382736810$LR•IPV4
 http://live.nctv.top/huya.php?id=23728660$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="张卫健版西游记" tvg-logo="https://live.fanmingming.com/tv/张卫健版西游记.png" group-title="🇨🇳埋堆堆（港剧）",张卫健版西游记
 http://www.xzbn.site:35455/huya/23728660$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="楚汉骄雄" tvg-logo="https://live.fanmingming.com/tv/楚汉骄雄.png" group-title="🇨🇳埋堆堆（港剧）",楚汉骄雄
-http://www.douzhicloud.site:35455/huya/29465854$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="刑事侦缉档案" tvg-logo="https://live.fanmingming.com/tv/刑事侦缉档案.png" group-title="🇨🇳埋堆堆（港剧）",刑事侦缉档案
-http://www.douzhicloud.site:35455/huya/29465856$LR•IPV4『线路1』
+http://live.nctv.top/huya.php?id=23734169$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="刑事侦缉档案" tvg-logo="https://live.fanmingming.com/tv/刑事侦缉档案.png" group-title="🇨🇳埋堆堆（港剧）",刑事侦缉档案
-http://live.nctv.top/huya.php?id=23734169$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="刑事侦缉档案" tvg-logo="https://live.fanmingming.com/tv/刑事侦缉档案.png" group-title="🇨🇳埋堆堆（港剧）",刑事侦缉档案
-http://www.xzbn.site:35455/huya/23734169$LR•IPV4『线路3』
+http://www.xzbn.site:35455/huya/23734169$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="法证先锋" tvg-logo="https://live.fanmingming.com/tv/法证先锋.png" group-title="🇨🇳埋堆堆（港剧）",法证先锋
 http://live.nctv.top/huya.php?id=23863804$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="法证先锋" tvg-logo="https://live.fanmingming.com/tv/法证先锋.png" group-title="🇨🇳埋堆堆（港剧）",法证先锋
 http://www.xzbn.site:35455/huya/23863804$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="陀枪师姐" tvg-logo="https://live.fanmingming.com/tv/陀枪师姐.png" group-title="🇨🇳埋堆堆（港剧）",陀枪师姐
-http://live.nctv.top/huya.php?id=23860039$LR•IPV4『线路1』
+http://www.douzhicloud.site:35455/huya/29465857$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="陀枪师姐" tvg-logo="https://live.fanmingming.com/tv/陀枪师姐.png" group-title="🇨🇳埋堆堆（港剧）",陀枪师姐
-http://www.xzbn.site:35455/huya/23860039$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="洗冤录" tvg-logo="https://live.fanmingming.com/tv/洗冤录.png" group-title="🇨🇳埋堆堆（港剧）",洗冤录
-http://www.douzhicloud.site:35455/huya/29465851$LR•IPV4
+http://live.nctv.top/huya.php?id=23860039$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="陀枪师姐" tvg-logo="https://live.fanmingming.com/tv/陀枪师姐.png" group-title="🇨🇳埋堆堆（港剧）",陀枪师姐
+http://www.xzbn.site:35455/huya/23860039$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="倚天屠龙记" tvg-logo="https://live.fanmingming.com/tv/倚天屠龙记.png" group-title="🇨🇳埋堆堆（港剧）",倚天屠龙记
-http://www.douzhicloud.site:35455/huya/23734246$LR•IPV4『线路1』
+http://live.nctv.top/huya.php?id=23734246$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="倚天屠龙记" tvg-logo="https://live.fanmingming.com/tv/倚天屠龙记.png" group-title="🇨🇳埋堆堆（港剧）",倚天屠龙记
-http://live.nctv.top/huya.php?id=23734246$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="倚天屠龙记" tvg-logo="https://live.fanmingming.com/tv/倚天屠龙记.png" group-title="🇨🇳埋堆堆（港剧）",倚天屠龙记
-http://www.xzbn.site:35455/huya/23734246$LR•IPV4『线路3』
+http://www.xzbn.site:35455/huya/23734246$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="鉴证实录" tvg-logo="https://live.fanmingming.com/tv/鉴证实录.png" group-title="🇨🇳埋堆堆（港剧）",鉴证实录
 http://www.douzhicloud.site:35455/huya/23903183$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="创世纪" tvg-logo="https://live.fanmingming.com/tv/创世纪.png" group-title="🇨🇳埋堆堆（港剧）",创世纪
-http://www.douzhicloud.site:35455/huya/29465852$LR•IPV4『线路1』
+http://live.nctv.top/huya.php?id=23749083$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="创世纪" tvg-logo="https://live.fanmingming.com/tv/创世纪.png" group-title="🇨🇳埋堆堆（港剧）",创世纪
-http://live.nctv.top/huya.php?id=23749083$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="创世纪" tvg-logo="https://live.fanmingming.com/tv/创世纪.png" group-title="🇨🇳埋堆堆（港剧）",创世纪
-http://www.xzbn.site:35455/huya/23749083$LR•IPV4『线路3』
+http://www.xzbn.site:35455/huya/23749083$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="使徒行者" tvg-logo="https://live.fanmingming.com/tv/使徒行者.png" group-title="🇨🇳埋堆堆（港剧）",使徒行者
 http://live.nctv.top/huya.php?id=23734256$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="使徒行者" tvg-logo="https://live.fanmingming.com/tv/使徒行者.png" group-title="🇨🇳埋堆堆（港剧）",使徒行者
 http://www.xzbn.site:35455/huya/23734256$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="金枝欲孽" tvg-logo="https://live.fanmingming.com/tv/金枝欲孽.png" group-title="🇨🇳埋堆堆（港剧）",金枝欲孽
-http://www.douzhicloud.site:35455/huya/29465847$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="妙手仁心" tvg-logo="https://live.fanmingming.com/tv/妙手仁心.png" group-title="🇨🇳埋堆堆（港剧）",妙手仁心
-http://www.douzhicloud.site:35455/huya/29465853$LR•IPV4『线路1』
+http://live.nctv.top/huya.php?id=23829543$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="妙手仁心" tvg-logo="https://live.fanmingming.com/tv/妙手仁心.png" group-title="🇨🇳埋堆堆（港剧）",妙手仁心
-http://live.nctv.top/huya.php?id=23829543$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="妙手仁心" tvg-logo="https://live.fanmingming.com/tv/妙手仁心.png" group-title="🇨🇳埋堆堆（港剧）",妙手仁心
-http://www.xzbn.site:35455/huya/23829543$LR•IPV4『线路3』
+http://www.xzbn.site:35455/huya/23829543$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="扫黄先锋" tvg-logo="https://live.fanmingming.com/tv/扫黄先锋.png" group-title="🇨🇳埋堆堆（港剧）",扫黄先锋
 http://live.nctv.top/huya.php?id=23903196$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="扫黄先锋" tvg-logo="https://live.fanmingming.com/tv/扫黄先锋.png" group-title="🇨🇳埋堆堆（港剧）",扫黄先锋
