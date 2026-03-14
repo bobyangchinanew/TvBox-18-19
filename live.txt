@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,http://live.nctv.top/huya.php?id=11342412
-2026-03-14,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+2026-03-15,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 📡  央视频道,#genre#
 CCTV1,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8$LR•IPV4『线路1』
 CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8$LR•IPV4『线路2』
@@ -149,11 +149,12 @@ CCTV15,http://23.237.228.134/live3/CCTV15.m3u8$LR•IPV4『线路7』
 CCTV15,http://69.30.246.194/live/cctv15.m3u8$LR•IPV4『线路8』
 CCTV15,http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009$LR•IPV4『线路9』
 CCTV16,http://69.30.246.194/live/cctv16.m3u8$LR•IPV4『线路1』
-CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8$LR•IPV4『线路2』
-CCTV16,http://183.11.239.36:808/hls/169/index.m3u8$LR•IPV4『线路3』
-CCTV16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8$LR•IPV4『线路4』
-CCTV16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8$LR•IPV4『线路5』
+CCTV16,http://183.11.239.36:808/hls/169/index.m3u8$LR•IPV4『线路2』
+CCTV16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8$LR•IPV4『线路3』
+CCTV16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8$LR•IPV4『线路4』
+CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009$LR•IPV4『线路5』
 CCTV16,http://www.dsk.cc/php/bfgd.php?id=cctv16&m.m3u8$LR•IPV4『线路6』
+CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8$LR•IPV4『线路7』
 CCTV17,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路1』
 CCTV17,http://183.11.239.36:808/hls/35/index.m3u8$LR•IPV4『线路2』
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8$LR•IPV4『线路3』
@@ -180,11 +181,11 @@ CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&pl
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$LR•IPV4『线路1』
 凤凰香港,P2p://starvod.xyz:19806/c4b31f19f7444cb9b283faa6e9fc1733$LR•IPV4『线路2』
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2$LR•IPV6『线路1』
-湖南卫视,http://58.57.40.22:9901/tsfile/live/1028_1.m3u8$LR•IPV4『线路2』
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$LR•IPV4『线路3』
-湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8$LR•IPV4『线路4』
-湖南卫视,http://124.116.183.146:9901/tsfile/live/0128_1.m3u8$LR•IPV4『线路5』
-湖南卫视,http://183.11.239.36:808/hls/36/index.m3u8$LR•IPV4『线路6』
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$LR•IPV4『线路2』
+湖南卫视,http://58.57.40.22:9901/tsfile/live/1028_1.m3u8$LR•IPV4『线路3』
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$LR•IPV4『线路4』
+湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8$LR•IPV4『线路5』
+湖南卫视,http://124.116.183.146:9901/tsfile/live/0128_1.m3u8$LR•IPV4『线路6』
 湖南卫视,http://120.211.62.180:8000/hls/30/index.m3u8$LR•IPV4『线路7』
 湖南卫视,http://69.30.246.194/live/hnws.m3u8$LR•IPV4『线路8』
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8$LR•IPV4『线路9』
@@ -212,8 +213,8 @@ CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&pl
 东方卫视,http://69.30.246.194/live/dfws.m3u8$LR•IPV4『线路9』
 东方卫视,rtp://239.3.1.119:3006$LR•IPV4『线路10』
 北京卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6『线路1』
-北京卫视,http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$LR•IPV4『线路2』
-北京卫视,http://23.237.228.134/live3/beijing.m3u8$LR•IPV4『线路3』
+北京卫视,http://23.237.228.134/live3/beijing.m3u8$LR•IPV4『线路2』
+北京卫视,http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$LR•IPV4『线路3』
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$LR•IPV4『线路4』
 北京卫视,http://124.116.183.146:9901/tsfile/live/0122_1.m3u8$LR•IPV4『线路5』
 北京卫视,http://183.11.239.36:808/hls/41/index.m3u8$LR•IPV4『线路6』
@@ -252,7 +253,7 @@ CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&pl
 安徽卫视,http://124.116.183.146:9901/tsfile/live/0130_1.m3u8$LR•IPV4『线路3』
 安徽卫视,http://183.11.239.36:808/hls/40/index.m3u8$LR•IPV4『线路4』
 安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8$LR•IPV4『线路5』
-安徽卫视,http://182.150.23.74:808/hls/25/index.m3u8$LR•IPV4『线路6』
+安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8$LR•IPV4『线路6』
 安徽卫视,http://120.211.62.180:8000/hls/33/index.m3u8$LR•IPV4『线路7』
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8$LR•IPV4『线路8』
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8$LR•IPV4『线路9』
@@ -309,7 +310,7 @@ CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&pl
 广东卫视,http://124.116.183.146:9901/tsfile/live/0125_1.m3u8$LR•IPV4『线路3』
 广东卫视,http://183.11.239.36:808/hls/80/index.m3u8$LR•IPV4『线路4』
 广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8$LR•IPV4『线路5』
-广东卫视,http://123.130.84.106:8154/tsfile/live/0125_1.m3u8$LR•IPV4『线路6』
+广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8$LR•IPV4『线路6』
 广东卫视,http://219.157.60.114:7001/rtp/225.1.4.166:1207$LR•IPV4『线路7』
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8$LR•IPV4『线路8』
 广东卫视,http://120.238.94.10:9901/tsfile/live/1008_1.m3u8$LR•IPV4『线路9』
@@ -361,9 +362,9 @@ CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&pl
 河北卫视,http://23.237.228.134/live8/hebei.m3u8$LR•IPV4『线路8』
 河北卫视,rtp://239.3.1.148:8072$LR•IPV4『线路9』
 河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8$LR•IPV4『线路1』
-河南卫视,http://cssbyd.imwork.net:8082/hls/37/index.m3u8$LR•IPV4『线路2』
-河南卫视,http://183.11.239.36:808/hls/51/index.m3u8$LR•IPV4『线路3』
-河南卫视,http://120.76.248.139/live/bfgd/4200000339.m3u8$LR•IPV4『线路4』
+河南卫视,http://183.11.239.36:808/hls/51/index.m3u8$LR•IPV4『线路2』
+河南卫视,http://120.76.248.139/live/bfgd/4200000339.m3u8$LR•IPV4『线路3』
+河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8$LR•IPV4『线路4』
 河南卫视,http://182.150.23.74:808/hls/33/index.m3u8$LR•IPV4『线路5』
 河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8$LR•IPV4『线路6』
 河南卫视,http://120.238.94.10:9901/tsfile/live/1068_1.m3u8$LR•IPV4『线路7』
@@ -385,16 +386,15 @@ CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&pl
 黑龙江卫视,rtp://239.3.1.133:8016$LR•IPV4『线路9』
 湖北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6『线路1』
 湖北卫视,http://58.57.40.22:9901/tsfile/live/1038_1.m3u8$LR•IPV4『线路2』
-湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8$LR•IPV4『线路3』
-湖北卫视,http://182.150.23.74:808/hls/28/index.m3u8$LR•IPV4『线路4』
-湖北卫视,http://123.130.84.106:8154/tsfile/live/0132_1.m3u8$LR•IPV4『线路5』
-湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8$LR•IPV4『线路6』
+湖北卫视,http://124.116.183.146:9901/tsfile/live/0132_1.m3u8$LR•IPV4『线路3』
+湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8$LR•IPV4『线路4』
+湖北卫视,http://182.150.23.74:808/hls/28/index.m3u8$LR•IPV4『线路5』
+湖北卫视,http://123.130.84.106:8154/tsfile/live/0132_1.m3u8$LR•IPV4『线路6』
 湖北卫视,http://219.157.60.114:7001/rtp/225.1.4.89:1118$LR•IPV4『线路7』
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8$LR•IPV4『线路8』
 湖北卫视,http://120.238.94.10:9901/tsfile/live/1055_1.m3u8$LR•IPV4『线路9』
 湖北卫视,http://60.16.0.216:5757/hls/33/index.m3u8$LR•IPV4『线路10』
-湖北卫视,http://124.116.183.146:9901/tsfile/live/0132_1.m3u8$LR•IPV4『线路11』
-湖北卫视,rtp://239.3.1.138:8044$LR•IPV4『线路12』
+湖北卫视,rtp://239.3.1.138:8044$LR•IPV4『线路11』
 吉林卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6『线路1』
 吉林卫视,http://58.57.40.22:9901/tsfile/live/1050_1.m3u8$LR•IPV4『线路2』
 吉林卫视,http://111.61.236.247:9081/hls/45/index.m3u8$LR•IPV4『线路3』
@@ -685,19 +685,19 @@ CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&pl
 南京十八,http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingsb/50/20230719/index.m3u8?msisdn=2025102308014162d44288f10c4a84b8b27a5f80ee99fd&mdspid=&spid=699067&netType=0&sid=5910021864&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838151753&ParentNodeID=-99&assertID=5910021864&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5900006207&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5a6e4ed4765e04fdb8e8bd37c3607a6c&ddCalcu=c56aea627e80406e3dc47736d5be80e48fbd$LR•IPV4『线路3』
 📡  广东频道,#genre#
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8$LR•IPV4『线路1』
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8$LR•IPV4『线路2』
-广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8$LR•IPV4『线路3』
-广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$LR•IPV4『线路4』
-广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive$LR•IPV4『线路5』
+广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8$LR•IPV4『线路2』
+广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$LR•IPV4『线路3』
+广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive$LR•IPV4『线路4』
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8$LR•IPV4『线路5』
 广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$LR•IPV4『线路6』
 广东新闻,http://119.32.12.17:2901/udp/224.1.100.5:11111$LR•IPV4『线路1』
 广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4『线路2』
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8$LR•IPV4『线路1』
 广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111$LR•IPV4『线路2』
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$LR•IPV4『线路1』
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8$LR•IPV4『线路2』
-广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路3』
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$LR•IPV4『线路4』
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$LR•IPV4『线路2』
+广东体育,http://183.11.239.36:808/hls/2/index.m3u8$LR•IPV4『线路3』
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路4』
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$LR•IPV4『线路5』
 广东体育,http://74.91.26.218:82/live/gdty.m3u8$LR•IPV4『线路6』
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub$LR•IPV4『线路7』
@@ -715,7 +715,8 @@ CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&pl
 📡  湖南频道,#genre#
 湖南电视剧,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz0yODUxNGViMDMzMTQxNjdjYTNiMzYxNjlmNTRmOGYzMSZ1aWQ9JnV1aWQ9ZTRkODgyNGE1YzQ4ZjVkOGQ4MjRmMWRjYzdlOGRlMWUtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0MDQwMTU5Nw,,/HNDSJMPP360.m3u8$LR•IPV4
 金鹰卡通,http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$LR•IPV4『线路1』
-金鹰卡通,http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路2』
+金鹰卡通,http://119.32.12.17:2901/udp/224.1.100.113:11111$LR•IPV4『线路2』
+金鹰卡通,http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路3』
 金鹰纪实,http://58.57.40.22:9901/tsfile/live/1070_1.m3u8$LR•IPV4『线路1』
 金鹰纪实,rtp://239.3.1.58:8156$LR•IPV4『线路2』
 湖南国际,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz0zYTExOGIwNDMyM2Y3Y2EyYjAyZDFjOTE3Yjc4YmU1YSZ1aWQ9JnV1aWQ9OGE4MjU5MWIyOWJkZGMzYWJiNDIxMzFjMmRhNTlkYjMtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0MDQwODkzNA,,/HNGJMPP360.m3u8$LR•IPV4
@@ -906,7 +907,8 @@ HBO,http://fm1077.serv00.net/Smart.php?id=hbohd_twn$LR•IPV4
 AXN,http://fm1077.serv00.net/Smart.php?id=axn_twn$LR•IPV4
 CINEMAX,http://fm1077.serv00.net/Smart.php?id=cinemax_twn$LR•IPV4
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$LR•IPV4『线路1』
-CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$LR•IPV4『线路2』
+CHC动作电影,http://119.32.12.17:2901/udp/224.1.100.131:11111$LR•IPV4『线路2』
+CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$LR•IPV4『线路3』
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$LR•IPV4『线路1』
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$LR•IPV4『线路2』
 📡  戏剧频道p2p,#genre#
@@ -1255,8 +1257,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8?ws
 华语影视,http://www.goodiptv.club/douyu/3928$LR•IPV4『线路1』
 华语影视,http://www.douzhicloud.site:35455/douyu/3928$LR•IPV4『线路2』
 刀刀影院,http://www.douzhicloud.site:35455/douyu/747764$LR•IPV4
-热门港剧,http://www.goodiptv.club/douyu/5522351$LR•IPV4『线路1』
-热门港剧,http://www.douzhicloud.site:35455/douyu/5522351$LR•IPV4『线路2』
+热门港剧,http://www.douzhicloud.site:35455/douyu/5522351$LR•IPV4
 经典剧集,http://www.goodiptv.club/douyu/6863367$LR•IPV4『线路1』
 经典剧集,http://www.douzhicloud.site:35455/douyu/6863367$LR•IPV4『线路2』
 🇨🇳电视剧轮播,#genre#
